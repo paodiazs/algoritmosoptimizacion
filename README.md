@@ -12,3 +12,6 @@ Utilizando Google OR Tools - https://developers.google.com/optimization/pack/kna
 Problema con la papelera
 el problema de empaquetado de discretizaciones también implica empaquetar elementos en discretizaciones. Sin embargo, el problema de la compresión tiene un objetivo diferente: encontrar la menor cantidad de contenedores que contendrán todos los elementos.
 Utilizando Google OR Tools - https://developers.google.com/optimization/pack/knapsack?hl=es-419
+
+Algoritmo Dijkstra
+Programa en pyhton que genera el algoritmo de Dijkstra, de acuerdo a la explicación de https://youtu.be/r3Mc9VWlX7c
